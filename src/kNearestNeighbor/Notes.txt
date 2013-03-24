@@ -1,0 +1,1 @@
+﻿http://burakkanber.com/blog/machine-learning-in-js-k-nearest-neighbor-part-1/
