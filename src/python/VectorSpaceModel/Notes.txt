@@ -1,0 +1,12 @@
+http://css.dzone.com/articles/machine-learning-text-feature
+http://css.dzone.com/articles/machine-learning-text-feature-0
+
+Train Document Set:
+
+d1: The sky is blue.
+d2: The sun is bright.
+
+Test Document Set:
+
+d3: The sun in the sky is bright.
+d4: We can see the shining sun, the bright sun.
